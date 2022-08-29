@@ -8,6 +8,7 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
+rm -rf OBF-PY3
 python3 -m pip install rich
 git clone https://github.com/Xenzi-XN1/OBF-PY3
 cd OBF-PY3
@@ -17,9 +18,12 @@ python OBF.py
 # Apa saja fungsinya
 + Obfuscate File Python 3
 + Mengunci Sebuah File Berbasis Python
++ Update v2.0
 
 # Hasil Dari Tools OBF-PY3
 ![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220812_192710.jpg)
+# Hasil Dari Tools OBF-PY3
+![img]()
 
 # Thanks to
 ```
